@@ -9,14 +9,6 @@ problems/    # Solutions organized by problem number
 notes/       # Topic templates and patterns for quick review
 ```
 
-## Progress
-
-| #   | Title               | Topic            | Source       | Done |
-| --- | ------------------- | ---------------- | ------------ | ---- |
-| 001 | Two Sum             | Arrays & Hashing | NeetCode 150 | ✅   |
-| 015 | 3Sum                | Two Pointers     | NeetCode 150 | ✅   |
-| 128 | Longest Consecutive | Arrays & Hashing | LeetCode     | ✅   |
-
 ## Convention
 
 Each problem folder contains:
