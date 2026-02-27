@@ -1,0 +1,7 @@
+[project]
+name = "algorithm-practice"
+version = "0.1.0"
+description = "Personal repository for tracking my LeetCode / NeetCode problem-solving progress."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
