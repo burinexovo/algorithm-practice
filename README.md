@@ -9,6 +9,18 @@ problems/    # Solutions organized by problem number
 notes/       # Topic templates and patterns for quick review
 ```
 
+## NeetCode Progress
+
+| Topic            | Done |
+| ---------------- | ---- |
+| Arrays & Hashing | ✅   |
+| Two Pointers     | 💪   |
+| Stack            | ⏭️   |
+| Binary Seach     | ⏭️   |
+| Sliding Windows  | ⏭️   |
+| Linked List      | ⏭️   |
+| Trees            | ⏭️   |
+
 ## Convention
 
 Each problem folder contains:
@@ -19,11 +31,13 @@ Each problem folder contains:
 ### Solution Header Template
 
 ```python
-# LeetCode 0001 - Two Sum
-# NeetCode: Arrays & Hashing
-# Date: 2026-03-01
-# Time: 20 min
-# Status: ✅ Solved / 👀 Hint / ❌ Failed
-# Time Complexity: O(n)
-# Space Complexity: O(n)
+'''
+LeetCode 0001 - Two Sum
+NeetCode: Arrays & Hashing
+Date: 2026-03-01
+Time: 20 min
+Status: ✅ Solved / 👀 Hint / ❌ Failed
+Time Complexity: O(n)
+Space Complexity: O(n)
+'''
 ```

@@ -15,8 +15,10 @@
             count += 1
     
 - dict 記得有 .values 可以用 -> 會轉 List
+- 二維陣列取位數 i//3, j//3 -> 對應九宮格。
+- 多少一循環可以用 %
 
-## 概念補充
+# 概念補充
 Bucket Sort:
 
     # 建 bucket，index 代表頻率
