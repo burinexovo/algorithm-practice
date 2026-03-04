@@ -14,8 +14,8 @@ notes/       # Topic templates and patterns for quick review
 | Topic            | Done |
 | ---------------- | ---- |
 | Arrays & Hashing | ✅   |
-| Two Pointers     | 💪   |
-| Stack            | ⏭️   |
+| Two Pointers     | ✅   |
+| Stack            | 💪   |
 | Binary Seach     | ⏭️   |
 | Sliding Windows  | ⏭️   |
 | Linked List      | ⏭️   |
