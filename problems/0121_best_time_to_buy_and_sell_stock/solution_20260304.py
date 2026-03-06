@@ -1,6 +1,6 @@
 '''
 LeetCode 0121 - Best Time to Buy and Sell Stock
-Topic: Array
+Topic: Sliding Window
 Date: 2026-03-04
 Time: 5 min
 Status: ✅ Solved
