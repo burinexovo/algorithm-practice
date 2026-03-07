@@ -1,25 +1,15 @@
-'''
-LeetCode 0049 - Group Anagrams
-NeetCode: Arrays & Hashing
-Date: 2026-02-27
-Time: 20 min
-Status: 👀 Hint
-Time Complexity: O(n * k log k)
-Space Complexity: O(nk)
-'''
-
 from typing import List
 from collections import defaultdict
 
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        groups = defaultdict(list)
-        for i in range(len(strs)):
-            key = "".join(sorted(strs[i]))
-            groups[key].append(strs[i])
-
-        return list(groups.values())
+        my_dict = defaultdict(list)
+        for s in strs:
+            key = "".join(sorted(s))
+            my_dict[key].append(s)
+        
+        return list(my_dict.values())
 
 
 if __name__ == "__main__":
