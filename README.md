@@ -6,6 +6,7 @@ Personal repository for tracking my LeetCode / NeetCode problem-solving progress
 
 ```
 problems/    # Solutions organized by problem number
+sort/        # Some sorting algorithms
 notes/       # Topic templates and patterns for quick review
 ```
 
